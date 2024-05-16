@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="723d9311-52fa-421c-8080-2a3bc403e8e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/j-regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessingGameUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TranscriptParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/GuessingGameTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2czhjYuSob1XVEdHAle3T2C5ft4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GuessigGameUI.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TranscriptParser.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CalculatorTest.annuityExample.executor": "Run",
+    "JUnit.CalculatorTest.annuityPractice2.executor": "Run",
+    "JUnit.CalculatorTest.canAddMaxIntPlusOne.executor": "Run",
+    "JUnit.CalculatorTest.canAddMinusOnePlusMinusOne.executor": "Run",
+    "JUnit.CalculatorTest.canAddOnePlusOne.executor": "Run",
+    "JUnit.CalculatorTest.canAddZeroPlusZero.executor": "Run",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.GuessingGameTest.executor": "Run",
+    "JUnit.GuessingGameTest.testFourWrongGuessesAndOneCorrect.executor": "Run",
+    "JUnit.GuessingGameTest.testFourWrongGuessesEndsTheGame.executor": "Debug",
+    "JUnit.GuessingGameTest.testOneWrongGuessSituation.executor": "Run",
+    "JUnit.GuessingGameTest.testRandomNumberGeneration.executor": "Run",
+    "JUnit.GuessingGameTest.testSimpleWinSituation.executor": "Run",
+    "JUnit.GuessingGameTest.testTenWrongGuessesEndsTheGame.executor": "Run",
+    "JUnit.GuessingGameTest.testThreeWrongGuessesAndOneCorrect.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last.edited.regexp": "Sample Text",
+    "onboarding.tips.debug.path": "/home/tomasz_suski/projects/JAVA/course/j-regex/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.kotlinCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GuessingGameTest.testFourWrongGuessesEndsTheGame">
+    <configuration name="GuessingGameUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessingGameUI" />
+      <module name="j-regex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="j-regex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuessingGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGameTest.testFourWrongGuessesAndOneCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="j-regex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuessingGameTest" />
+      <option name="METHOD_NAME" value="testFourWrongGuessesAndOneCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGameTest.testFourWrongGuessesEndsTheGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="j-regex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuessingGameTest" />
+      <option name="METHOD_NAME" value="testFourWrongGuessesEndsTheGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGameTest.testTenWrongGuessesEndsTheGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="j-regex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuessingGameTest" />
+      <option name="METHOD_NAME" value="testTenWrongGuessesEndsTheGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GuessingGameTest.testFourWrongGuessesEndsTheGame" />
+        <item itemvalue="JUnit.GuessingGameTest" />
+        <item itemvalue="Application.GuessingGameUI" />
+        <item itemvalue="JUnit.GuessingGameTest.testFourWrongGuessesAndOneCorrect" />
+        <item itemvalue="JUnit.GuessingGameTest.testTenWrongGuessesEndsTheGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723d9311-52fa-421c-8080-2a3bc403e8e3" name="Changes" comment="" />
+      <created>1709120449831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709120449831</updated>
+    </task>
+    <servers />
+  </component>
+</project>
